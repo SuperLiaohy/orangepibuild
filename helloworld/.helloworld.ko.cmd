@@ -1,0 +1,1 @@
+cmd_/home/lhy/Documents/helloworld/helloworld.ko := aarch64-none-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/lhy/Documents/helloworld/helloworld.ko /home/lhy/Documents/helloworld/helloworld.o /home/lhy/Documents/helloworld/helloworld.mod.o;  true
